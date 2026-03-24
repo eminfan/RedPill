@@ -1,4 +1,4 @@
-# The Human Trophic Theory: The Red Pill of Reality
+# The Red Pill of Reality
 
 > **⚠️ WARNING: READ THIS FIRST**
 > This project contains highly deconstructive content that may severely impact your worldview. There are no placebos here, only scalpels.
