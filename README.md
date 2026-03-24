@@ -1,4 +1,4 @@
-# 天道：真实世界的红丸 (The Red Pill of Reality)
+# 真实世界的红丸 (The Red Pill of Reality)
 
 [**English Version**](English/README.md)
 
