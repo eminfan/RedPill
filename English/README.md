@@ -12,28 +12,7 @@ Due to the **"Red Pill"** and **"Cognitive Scalpel"** nature of this project, th
 
 Reading this without discretion may lead to severe side effects (e.g., nihilism, anti-social tendencies, or deep depression).
 
-### ⛔ **Under 18: STRICTLY PROHIBITED**
-*   **Reason**:
-    1.  **Worldview Under Construction**: The core task of adolescence is **"Socialization"** (building trust in the world, learning rules). Exposing them to "the predatory truth behind rules" or "the memetic nature of morality" at this stage will destroy their ability to build normal interpersonal relationships and social connections.
-    2.  **Risk of Nihilism**: Teenagers are prone to extremes. Telling them "love is genetic coding" or "ideals are memetic domestication" may lead them to the conclusion that "life is meaningless."
 
-### ⚠️ **18-25 (College/Early Career): READ WITH CAUTION**
-*   **Status**: People at this stage are usually full of ideals and are about to hit the wall of reality.
-*   **Risk**: Reading this theory might turn them into cynics or "prematurely aged," losing the drive to strive too early, using "seeing through it" as an excuse for "laziness."
-*   **Recommendation**: Unless mentally extremely mature, it is not recommended as introductory reading. It is best read when feeling lost.
-
-### ✅ **25-35 (Social Backbone): RECOMMENDED**
-*   **Status**: Have been "beaten up" by society. Experienced workplace PUA, witnessed unfair distribution, and felt the powerlessness of ineffective effort.
-*   **Reason**:
-    1.  **Pain Point Match**: Inner confusion ("Why am I still poor despite working so hard?", "Why does the boss sound right but feel wrong?") needs explanation.
-    2.  **Antidote**: Having been sufficiently "domesticated," there is an urgent need for this theory to **"undomesticate"**.
-    3.  **Constructive**: People at this age usually have family or career ties and will not easily fall into nihilism; instead, they will think about "how to protect myself after seeing the truth."
-
-### 🧘 **Over 35: ESSENTIAL READING**
-*   **Status**: burdened with elderly parents and young children, at the peak of energy dissipation.
-*   **Reason**: This theory helps perform an **"Energy Audit"**. Energy is the most precious asset for middle-aged people. Using "Lingshi" (Systemic Optical Decryption) to cut off invalid social interactions, false responsibilities, and implanted anxieties is key to breaking through the mid-life crisis.
-
----
 
 ## 👁️ Why Read This?
 
