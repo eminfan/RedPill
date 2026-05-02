@@ -1,93 +1,71 @@
-# Preface: Handing a Saw to the Caged
+# Preface: Crouching Down to Watch Ants
 
 **Fan Yimin**
 
 ---
 
-### I. Why I Am Angry
+As a child I used to crouch by the roadside watching ants. I'd see them lined up, bustling about, indistinguishable from one another, the whole colony's direction clear—wherever the food was, that's where they surged.
 
-For a long time, I thought I was free.
+Later I studied biology and first learned about genes. That DNA double helix in the textbook gave me a thought: **what my body would become was written before I was even born.** Not decided by heaven, but by a chemical message.
 
-I thought my dreams were mine to dream, my fears were mine to feel, my loves were mine to choose. I thought those ambitions churning in the dead of night and those anxieties crushed down at dawn were "me" living.
+Later I studied ecology, observing trophic levels in the rainforest—canopy trees competing for sunlight, shrubs struggling in the shade, herbaceous plants surviving on the scraps that filtered down. Energy transfers level by level, losing about ninety percent at each step.
 
-Then I found out otherwise.
+I closed the textbook, and another kind of pyramid appeared in my mind: farmers working the land, contractors and small merchants, bigger businessmen and bigger officials, and at the very top, the rule-makers. **Broad at the bottom, narrow at the top. Energy flows upward.** The forest and human society—the structure is almost identical.
 
-My ambition was nothing but a whip—dopamine held it, lashing me forward, running till death and never stopping. My moral sense was nothing but a script someone else had written—the lines were prepared long ago, and I merely delivered them with feeling. My fear was nothing but a live wire buried in my bones—touch it and it hurts, hurt and you flinch, flinch and you obey.
-
-I was not living. I was **being executed**.
-
-What I could not bear even more was looking around and discovering that the entire city, the entire society, was a precision-engineered cage. Every step was calculated for where you should stand; every corridor led where someone else wanted you to go. The cage was magnificent, and the caged were grateful.
-
-And those things we called "mandate of heaven"—dynastic rises and falls, cycles of prosperity and decline—were nothing but the cage being too greedy, sucking too hard, bursting at the seams, shrapnel killing people, and then a new batch building a new one.
-
-Those things we called "noble"—sacrifice is glorious, suffering builds character—were nothing but paintings the cage master hung on the walls, afraid you might make trouble, making you mistake iron for a temple.
-
-**I felt an anger I had never known.**
-
-Not because I was deceived. Deception lets you blame the deceiver.
-But because I was domesticated—I had personally polished my own chains. I had genuinely applauded the cage's ornamental carvings.
+I'm not saying "human society is just an ecosystem"—humans have language, consciousness, and will die for abstract ideals. But I wondered: **if the underlying principles are the same, could ecological principles—energy conservation, competitive stratification, critical thresholds of system collapse—also help us see things that "human nature" or "morality" alone can't explain?**
 
 ---
 
-### II. What This Theory Is
+I carried this question and kept reading, kept thinking.
 
-So I wrote these words.
+Kant said morality is universal and absolute. I didn't believe it. Open any history book and every page says the same thing: **what was moral in ancient times might be immoral today.** Slavery was "natural" in ancient Greece; today it's a crime against humanity. Foot-binding was a "standard of beauty" in the Qing dynasty; today it's bodily persecution. Morality is fluid—it changes with environment, technology, and power structures.
 
-It is not an academic treatise. I have no interest in adding another chair to the ivory tower.
-It is not a compendium of truth. I do not believe anyone can grasp the whole of it.
+Hollywood blockbusters—heroes saving the world, individual freedom triumphant—stunning visuals, stirring scores. But walking out of the theater, I slowly felt something was off: why is it always Americans playing the hero in stories worldwide? **Hollywood isn't making movies—it's mass-producing and globally distributing values.** You buy a ticket, and what you take away isn't just entertainment, but a worldview implanted without your awareness. It doesn't need to persuade you—it just needs you to think it's "a good watch."
 
-**It is a prison-break manual.**
-**It is a saw.**
+If morality is fluid, then "stories" are the rivers that shape morality. Whoever controls the riverbed controls the flow.
 
-I used every tool I could find—physics, biology, history—for one purpose only: **to dismantle**.
+Then I heard a term—**"execution threshold."** From gaming: when the opponent's health drops below a certain percentage, you can execute them instantly. Every system has an invisible execution threshold. Most people's efforts are just struggling not to fall below that line.
 
-To peel away the paintings hung on the iron walls, so you can see the rust beneath.
-To strip away the lines planted in your skull, so you can hear your own voice.
-To dismantle that thing you call "me," so you can see how much of it is someone else's handwriting.
-
-In the process, I learned a way of seeing the world—not by listening to what it says, but by watching **which way things flow**. Where the money flows, where the people flow, where the blood flows. Into whose pockets, out of whose veins.
-
-When you learn to see this way, the world grows cold, but clear.
-You will see that those slogans making your blood race are often mobilization orders for your own sacrifice.
-You will see that those standards making you anxious are harvesting sickles custom-built for your shape.
-You will see that the cage's most devastating trick is not that it locks you in—it's that it makes you believe this is the whole world.
+This feeling of "looking directly at the bottom layer of rules," I later gave it a name: **Clairvoyance**—not listening to what a society says, only watching which way things flow. Where does the money flow? Where does attention flow? Where does power flow? Turn off the "moral narrative," look only at resource flows, and social structure becomes exceptionally clear.
 
 ---
 
-### III. A Warning to the Reader
+Then I encountered Dawkins. He proposed **memes**—units of cultural replication. A catchy tune, a popular slogan, a moral system—they're not "being spread by us," they're **using us to spread themselves**.
 
-Before handing you this manual, I must say a few things you won't want to hear:
+This perspective shift was devastating. Genes are the hardware designer; memes are the operating system. Most people go their whole lives without realizing they're running a pre-installed system in their heads.
 
-**First: This is a red pill.**
+Ecology gave me a framework for analyzing social structure. Memetics gave me a mechanism for analyzing the spread of ideas. Put the two together, and the picture was complete: **the skeleton of society is the structure of energy flow; the flesh and blood of society is the ecology of meme propagation.**
 
-Swallow it, and you can never go back. Those warm illusions, those sweet lies—you'll never be able to stomach them again. Waking up hurts. You will lose many simple joys.
-If you would rather stay in the dream, close this file now. No one will blame you.
+Then I looked back at Chinese history. Thousands of years of dynastic cycles—land distribution and tax reduction at founding, then land consolidation, then mass suffering, then uprising, new dynasty, repeat. For thousands of years, the script never changed.
 
-**Second: Do not believe me.**
-
-Everything I say could be wrong. If one day you find these words have become a new cage—new dogma, new idol, new chains—**saw it open without hesitation.**
-
-Even say to "Tiandao" itself: to hell with you.
-
-Because true freedom is not moving from my cage to yours. It is what grows from your bones in the moment you saw through your own chains.
+But are humans really that wretched? No. The people who grow grain have been silent and long-suffering for millennia, yet every time they ultimately determined the course of history. The wheat ripened thousands of times; the wheat-growers were the "silent majority" for five thousand years, until one day someone said four words: **"Long live the people."** At least for one moment, the person growing wheat was seen.
 
 ---
 
-### IV. A Final Wish
+I wrote these words down.
 
-I did not write this to be anyone's guru.
-I am merely the one who woke up first in the iron room, trying to chink a crack in the wall, or hand a saw to the prisoner next door.
+It's not an academic work—my thinking is too "wild" for that circle. It's not a life guide either—I'm still looking myself.
 
-As for what you do with the saw—
-whether you saw through the chains, or enshrine it on an altar;
-whether you walk out of the cage, or become its new master;
-whether you turn back after seeing the wasteland, or plant a tree upon it—
+**It is a saw.** For sawing through walls of "taken for granted."
 
-**That is your own business.**
+Before you pick it up, a few things I must say:
 
-May you suffer.
-May you wake.
+**Once you start seeing this way, it's hard to go back.** Things that once moved you, angered you, made your blood race will become transparent. But you'll gain a new kind of joy—the joy of seeing structure clearly. The world won't become uglier—just clearer.
+
+**This is a saw, not a key.** It can help you saw through walls, but it can't tell you whether what's on the other side is worth reaching. Direction is your own business.
+
+**Don't believe me.** Everything I say could be wrong. If one day these words become new dogma—saw it open without hesitation. Even say to "Tiandao" itself: to hell with you.
+
+**Don't think holding this saw makes you superior.** If you use this theory to look down on others, you're precisely proving the theory—you've just placed yourself at a higher trophic level, thinking you feed on "truth" instead of "energy."
+
+---
+
+I write this because I've found others observing with similar perspectives. If these scattered notes make them feel "I'm not the only one," that's enough.
+
+As for what you do with the saw—that's your business.
+
+I'll keep observing.
+
+May you be curious.
+May you be skeptical.
 May you be free.
-
----
-**March 2026, at the moment of awakening**
