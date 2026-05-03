@@ -1,0 +1,8 @@
+{
+  "name": "stance-analyzer",
+  "version": "1.1.0",
+  "description": "作品立场分析：输入作品名，自动完成完整立场分析（v6.1框架）",
+  "keywords": ["literature", "meme", "analysis", "claude-code-skill"],
+  "license": "MIT",
+  "files": ["SKILL.md", "README.md", "LICENSE"]
+}
